@@ -1,1 +1,2 @@
 Primeros apuntes con Framework de Vue
+ahora modifico
