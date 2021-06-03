@@ -1,2 +1,6 @@
 Primeros apuntes con Framework de Vue
+<<<<<<< HEAD
 Commit en branch1
+=======
+ahora modifico
+>>>>>>> master
